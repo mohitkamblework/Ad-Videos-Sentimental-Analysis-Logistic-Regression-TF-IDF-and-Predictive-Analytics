@@ -1,6 +1,8 @@
 # Ad Videos Sentiment Analysis: Logistic Regression, TF-IDF, and Predictive Analytics.
 
-<i>This project leverages advanced Logistic Regression and TF-IDF vectorization techniques to perform sentiment analysis on video advertisements based on their textual content.</i> The dataset, comprising ad descriptions, transcriptions, and on-screen text, was used to predict responses to 21 binary sentiment-related questions. The project evaluated results using key performance metrics such as <b>accuracy</b>, <b>precision</b>, <b>recall</b>, and <b>F1-score</b>, offering valuable insights into the effectiveness of video ads.
+<i>This project leverages advanced Logistic Regression and TF-IDF vectorization techniques to perform sentiment analysis on video advertisements based on their textual content.</i>
+
+The dataset, comprising ad descriptions, transcriptions, and on-screen text, was used to predict responses to 21 binary sentiment-related questions. The project evaluated results using key performance metrics such as <b>accuracy</b>, <b>precision</b>, <b>recall</b>, and <b>F1-score</b>, offering valuable insights into the effectiveness of video ads.
 
 <u><b>Why This Project Matters</b></u>
 
